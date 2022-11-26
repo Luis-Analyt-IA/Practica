@@ -1,4 +1,2 @@
 # Practica
 Practica
-
-Hola mundo
